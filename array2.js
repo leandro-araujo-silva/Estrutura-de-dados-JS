@@ -10,6 +10,9 @@ console.log(avgTemp)
 
 // Dias da semana 
 let daysOfWeek = new Array()
+
+// Podemos colocar o tamanho do array || let daysOfWeek = new Array(7)
+
 daysOfWeek[0] = 'Sunday'
 console.log(daysOfWeek[0])
 console.log(daysOfWeek.length)
